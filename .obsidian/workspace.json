@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e2de67d1da16c77b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c94972630cd777d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fda8dc70ac5de245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_fuzzballs_humm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_fuzzballs_humm"
+            }
+          },
+          {
+            "id": "519eeb19df1e10c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76017af29150bb07",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e353b564048637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e698a5d621be7e97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b6c3b7bcdbc1dec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "279d9a8ab9a28272",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c1e26ce23d51b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6eb206fba6dce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09eb13c474a60c82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "4582fd123bd991d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "8bc00d6cafd46fd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "937524ca029b614e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "519eeb19df1e10c1",
+  "lastOpenFiles": [
+    "04_szuperuzemanyag_rablas.md",
+    "README.md",
+    "03_krrtakh_parancsnok.md",
+    "02_fuzzballs_humm.md",
+    "05_andromedia_galaxis_eltunese.md",
+    "12_bosszu_penganon.md",
+    "06_szepseg_vege_3_megtalalasa.md",
+    "07_bifff_megtalalasa.md",
+    "08_afrodite_felszerelese_a_hatso_szandekkal.md",
+    "09_rajtautes_mihi_caruson.md",
+    "10_puer_elior_klosto_palazzo.md",
+    "11_laboratorium_fulgetta_bolygon.md",
+    "eroforrasok.md",
+    "01_balnaurulek_begyujtese.md",
+    "images/pengan_palota_folyosok.png",
+    "images"
+  ]
+}
