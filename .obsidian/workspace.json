@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c94972630cd777d",
+        "id": "d3080bd2ea112dd0",
         "type": "tabs",
         "children": [
           {
-            "id": "519eeb19df1e10c1",
+            "id": "52df03601d332d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,10 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "519eeb19df1e10c1",
+  "active": "52df03601d332d7c",
   "lastOpenFiles": [
-    "02_fuzzballs_humm.md",
     "README.md",
+    "02_fuzzballs_humm.md",
     "04_szuperuzemanyag_rablas.md",
     "03_krrtakh_parancsnok.md",
     "05_andromedia_galaxis_eltunese.md",
